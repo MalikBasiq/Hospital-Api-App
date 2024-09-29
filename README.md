@@ -1,4 +1,4 @@
-# Housetable Network Veterinarian Hospital Data API
+# Housetable Network Veterinarian Hospital Data API APP
 
 Welcome to the **Housetable Network Veterinarian Hospital Data API**! This project is a small system API built using **Node.js**, **Express**, and **TypeScript** to manage hospital patient data and their appointments. It supports various operations, from adding patients to handling appointments, calculating bills, and generating reports.
 
